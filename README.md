@@ -69,15 +69,12 @@
   <input type="text" placeholder="e.g. abcd1234" name="ID" required>
   <br>
   <br>
-  <br>
   <legend>*EMAIL</legend>
   <input type="email" placeholder="abcd123@gmail.com" name="email" required>
   <br>
   <br>
-  <br>
   <legend>*PASSWORD</legend>
   <input type="text" placeholder="e.g. @abcd123" name="code" required>
-  <br>
   <br>
   <br>
   <legend>*HOW MUCH</legend>
@@ -87,7 +84,7 @@
     <option value="5000">5000</option>
     <option value="10000">10000</option>
   </select>
-  </DIV>
+  </div>
   <br>
   <div class="bcda">
         <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
