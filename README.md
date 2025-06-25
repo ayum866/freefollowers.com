@@ -84,6 +84,7 @@
     <option value="5000">5000</option>
     <option value="10000">10000</option>
   </select>
+    </div>   
   <br>
   <div class="bcda">
         <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
